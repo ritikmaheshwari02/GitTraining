@@ -1,1 +1,2 @@
 Welcome from branch b1
+Welcome from branch b2
